@@ -83,7 +83,7 @@ const GOOGLE_SCRIPT_URL = "";
 改成：
 
 ```javascript
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/你的部署網址/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyhn6IYeVwa-8zgsR0K-WAIWf6YmT-k1T8lgWpm66MT8IzRjEKSXsv2UVi1TTMIXPEG3A/exec";
 ```
 
 儲存後重新上傳到 GitHub。
